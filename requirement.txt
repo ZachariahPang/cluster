@@ -1,2 +1,2 @@
-gymnasium
+gymnasium[mujoco]
 moviepy
